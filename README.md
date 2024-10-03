@@ -1,1 +1,1 @@
-My competitive programming solutions on various websites such as AtCoder, Codeforces, and CSES
+My competitive programming solutions on various websites such as AtCoder, Codeforces, and CSES.
